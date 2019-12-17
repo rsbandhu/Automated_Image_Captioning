@@ -14,4 +14,7 @@ The project is structured as a series of Jupyter notebooks:
 
 **2_Training.ipynb:**
 
+  1. Set hyperparameters based on initial tuning results
+  2. Train the final layer of the encoder and the entire decoder
+
 **3_Inference.ipynb :**
