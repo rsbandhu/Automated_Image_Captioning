@@ -6,6 +6,9 @@ The goal of this project is to train a deep neural network using MSCOCO dataset 
 The project is structured as a series of Jupyter notebooks:
 
 0_Dataset.ipynb
+
 1_Preliminaries.ipynb
+
 2_Training.ipynb
+
 3_Inference.ipynb
