@@ -18,3 +18,5 @@ The project is structured as a series of Jupyter notebooks:
   2. Train the final layer of the encoder and the entire decoder
 
 **3_Inference.ipynb :**
+
+  1. Generate captions on some images after loading the trained model
